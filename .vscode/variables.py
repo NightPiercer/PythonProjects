@@ -83,5 +83,5 @@
 
 # Boolean Variable
 
-# isLightOn = True
-# isLightOff = False
+isLightOn = True
+isLightOff = False
