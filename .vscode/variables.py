@@ -81,7 +81,7 @@
 # print (sumnumber)
 # print (intNumber)
 
-# Boolean Variable
+Boolean Variable
 
 isLightOn = True
 isLightOff = False
